@@ -66,7 +66,7 @@
 ## 🌍 **Connect with Me**  
 💼 **[LinkedIn](https://www.linkedin.com/in/bharath-nidumolu-613397135/)**  
 📂 **[GitHub](https://github.com/bharath1997-crypto)**  
-📧 **Email:** bharathnidumolu@example.com  
+📧 **Email:** bharathnidumolu230@gmail.com  
 
 ---
 
