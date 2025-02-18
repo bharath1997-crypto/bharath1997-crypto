@@ -58,8 +58,10 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath1997-crypto&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1997-crypto&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath1997-crypto&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1997-crypto&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
