@@ -1,0 +1,273 @@
+{
+  "personal_info": {
+    "name": "Bharath Nidumolu",
+    "title": "Solutions Engineer | MS in Computer Science",
+    "location": "Chicago, IL",
+    "email": "bharath230.nidumolu@gmail.com",
+    "github": "https://github.com/bharath1997-crypto",
+    "linkedin": "https://www.linkedin.com/in/bharath-nidumolu-613397135/"
+  },
+  "stats": {
+    "graduate_credits": 72,
+    "gpa": "3.3",
+    "experience_years": "4+",
+    "enterprise_users": "15,000+",
+    "b2b_accounts": 15
+  },
+  "projects": [
+    {
+      "id": "group-travel-os",
+      "title": "Group Travel OS",
+      "icon": "map-pin",
+      "description": "Full-stack group travel planning platform. FastAPI backend with JWT auth, expense splitting, polls, location management, and 12-table PostgreSQL schema.",
+      "architecture": {
+        "tables": 12,
+        "auth": "JWT + bcrypt",
+        "pattern": "Routes → Services → Models",
+        "tests": "pytest + unittest.mock across 6 service files"
+      },
+      "stack": ["FastAPI", "PostgreSQL", "SQLAlchemy 2.0", "Pydantic v2", "JWT", "Python 3.13", "Alembic"],
+      "context": "Active Portfolio Project · 2025",
+      "accent": "#185FA5",
+      "github": "https://github.com/bharath1997-crypto"
+    },
+    {
+      "id": "github-analytics",
+      "title": "Git-Insight Pro",
+      "icon": "github",
+      "description": "Enterprise-grade dashboard for visualizing repository health, CI/CD success rates, and contributor velocity.",
+      "stack": ["React", "TypeScript", "D3.js", "GitHub API"],
+      "context": "In Progress · 2025",
+      "accent": "#378ADD",
+      "github": "https://github.com/bharath1997-crypto"
+    },
+    {
+      "id": "pdf-pluse",
+      "title": "PDFPluse",
+      "icon": "file-text",
+      "description": "Cloud-based document automation tool featuring Firebase OCR scanning and text extraction.",
+      "stack": ["Node.js", "Firebase", "Tesseract.js", "OCR"],
+      "context": "Active Portfolio Project · 2024",
+      "accent": "#888780",
+      "github": "https://github.com/bharath1997-crypto"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Engineering",
+      "items": [
+        { "name": "Java / Spring Boot", "level": 90 },
+        { "name": "FastAPI / SQLAlchemy", "level": 85 },
+        { "name": "Pydantic v2 / Alembic", "level": 80 },
+        { "name": "TypeScript / React", "level": 85 }
+      ]
+    },
+    {
+      "group": "Cloud & DevOps",
+      "items": [
+        { "name": "AWS / GCP", "level": 75 },
+        { "name": "Docker / Kubernetes", "level": 70 },
+        { "name": "CI/CD Pipelines", "level": 80 }
+      ]
+    },
+    {
+      "group": "Design / HCI",
+      "items": [
+        { "name": "Figma/Axure", "level": 82 },
+        { "name": "Usability Testing", "level": 80 },
+        { "name": "Prototyping", "level": 78 },
+        { "name": "User Research", "level": 72 }
+      ]
+    },
+    {
+      "group": "Methodologies",
+      "items": [
+        { "name": "Agile/Scrum", "level": 85 },
+        { "name": "SOP Development", "level": 90 },
+        { "name": "Change Management", "level": 80 },
+        { "name": "UAT", "level": 85 }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Hilti India Pvt Ltd",
+      "role": "Implementation Specialist",
+      "period": "2020 - 2022",
+      "highlights": [
+        "Led end-to-end implementation for 15,000+ users across 15 enterprise accounts.",
+        "Optimized asset tracking workflows using tailored digital solutions."
+      ]
+    },
+    {
+      "company": "Daedalus Lift & Access",
+      "role": "Sr. Sales and Solutions Engineer",
+      "period": "2018 - 2019",
+      "highlights": [
+        "Managed high-impact public sector projects for ISRO and Indian Railways.",
+        "Designed custom Zoho CRM workflows for complex multimillion-dollar contracts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "DePaul University",
+      "degree": "Master of Science in Computer Science",
+      "status": "Completed · 72 Credits",
+      "gpa": "3.3"
+    },
+    {
+      "institution": "JNTU Kakinada",
+      "degree": "B.Tech in Electrical & Electronics Engineering",
+      "period": "2014 - 2018",
+      "grade": "First Class with Distinction",
+      "aggregate": "70.19%",
+      "leadership": [
+        "President, Technical Club (Volta Association)",
+        "NSS Head Volunteer"
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "Salesforce AI Associate", "issuer": "Salesforce Trailhead", "date": "2025" },
+    { "name": "Become a RESTful API Developer", "issuer": "LinkedIn Learning", "date": "2025" }
+  ],
+  "discussions": [
+    {
+      "id": "enterprise-implementation",
+      "title": "Enterprise Implementation",
+      "icon": "building-office",
+      "description": "Full lifecycle from requirements to go-live. Hilti ON!Track, ServiceNow, Zoho CRM across 15+ B2B accounts.",
+      "tags": ["Discovery", "SOPs", "UAT", "Go-Live", "Power BI", "Change Mgmt", "Hypercare"],
+      "bullets": [
+        { "key": "Discovery & Scoping", "text": "Mapping client workflows before any config touches the system" },
+        { "key": "Data Migration Planning", "text": "Identifying legacy data structures and mapping to new schema" },
+        { "key": "Stakeholder Alignment", "text": "Weekly syncs across product, engineering, and client success" },
+        { "key": "Configuration & Setup", "text": "ON!Track asset categories, user roles, location hierarchies" },
+        { "key": "UAT Design", "text": "Writing test scripts, managing sign-off cycles with client teams" },
+        { "key": "Go-Live Execution", "text": "Phased rollouts, fallback plans, hypercare protocols" },
+        { "key": "Post Go-Live Support", "text": "ServiceNow ticket triage, SOP documentation, Confluence publishing" },
+        { "key": "ROI Reporting", "text": "Power BI dashboards tracking adoption rates, KPIs, and value delivery" }
+      ]
+    },
+    {
+      "id": "fastapi-backend",
+      "title": "FastAPI & Backend Architecture",
+      "icon": "cpu-chip",
+      "description": "Production-grade REST APIs. Auth, routing, services, testing patterns in SQLAlchemy 2.0.",
+      "tags": ["FastAPI", "SQLAlchemy", "Pydantic v2", "JWT", "pytest", "Alembic", "PostgreSQL"],
+      "bullets": [
+        { "key": "Project Structure", "text": "Routes → Services → Models pattern, no business logic in routes" },
+        { "key": "SQLAlchemy 2.0", "text": "Async sessions, relationship loading, avoiding N+1 queries" },
+        { "key": "Pydantic v2", "text": "Schema design, validators, response_model patterns" },
+        { "key": "JWT Auth", "text": "Access + refresh token flow, bcrypt hashing, token blacklisting" },
+        { "key": "Error Handling", "text": "AppException pattern, consistent HTTP error responses" },
+        { "key": "pytest Strategy", "text": "MagicMock for DB sessions, exec_result() helpers, 100% service coverage" },
+        { "key": "Alembic Migrations", "text": "Autogenerate workflow, upgrade/downgrade safety, env.py config" },
+        { "key": "API Design", "text": "Versioning, pagination, filtering patterns for enterprise clients" }
+      ]
+    },
+    {
+      "id": "ai-tooling",
+      "title": "AI Tooling for Engineers",
+      "icon": "sparkles",
+      "description": "Cursor, Claude, ChatGPT, Gemini — how I use each tool differently in my daily SE workflow.",
+      "tags": ["Cursor", "Claude", "ChatGPT", "Gemini", "GitHub Copilot", "Prompt Eng", "Workflow"],
+      "bullets": [
+        { "key": "Cursor", "text": "Agentic coding for multi-file edits, Composer for full feature scaffolding" },
+        { "key": "Claude", "text": "Architecture decisions, prompt engineering, long-context reasoning" },
+        { "key": "ChatGPT", "text": "Quick lookups, debugging rubber duck, resume and writing tasks" },
+        { "key": "Gemini", "text": "Research and summarization, Google ecosystem integration" },
+        { "key": "GitHub Copilot", "text": "Inline autocomplete, test generation, docstring writing" },
+        { "key": "Prompt Engineering", "text": "Chain-of-thought, role prompting, output format control" },
+        { "key": "Workflow Design", "text": "Which tool for which task, avoiding redundancy across subscriptions" },
+        { "key": "Cost Optimization", "text": "Free tiers, when to upgrade, ROI per tool for job seekers" }
+      ]
+    },
+    {
+      "id": "se-career",
+      "title": "Solutions Engineering Career",
+      "icon": "briefcase",
+      "description": "Breaking into SE from implementation. What hiring managers look for. Portfolio strategy.",
+      "tags": ["SE Roles", "TAM", "Resume", "LinkedIn", "Portfolio", "Certifications", "Job Search"],
+      "bullets": [
+        { "key": "Role Definition", "text": "SE vs TAM vs Implementation: where the lines blur and why it matters" },
+        { "key": "Portfolio Strategy", "text": "Projects that signal enterprise readiness to US hiring managers" },
+        { "key": "Resume Positioning", "text": "Translating implementation experience to SE language" },
+        { "key": "LinkedIn Optimization", "text": "Headline, about, featured section for SE targeting" },
+        { "key": "Certification Path", "text": "Salesforce AI Associate → Admin → ServiceNow CSA sequence" },
+        { "key": "Interview Prep", "text": "Technical demo, discovery call simulation, whiteboard architecture" },
+        { "key": "Networking Approach", "text": "Comment strategy, InMail templates, warm vs cold outreach" },
+        { "key": "Salary Benchmarking", "text": "SE comp ranges by company size, location, and stack" }
+      ]
+    },
+    {
+      "id": "india-us-market",
+      "title": "India → US Tech Market",
+      "icon": "globe-alt",
+      "description": "MS CS journey, OPT strategy, positioning your international experience for US employers.",
+      "tags": ["DePaul", "OPT", "MS CS", "Positioning", "Networking", "Salary", "Immigration"],
+      "bullets": [
+        { "key": "MS CS Selection", "text": "Why DePaul, 72 credits, course selection for SE career alignment" },
+        { "key": "OPT Strategy", "text": "Timeline, filing windows, employer communication" },
+        { "key": "Experience Translation", "text": "Framing Hilti/ISRO work for US hiring managers" },
+        { "key": "LinkedIn for US Market", "text": "Headline signals that work for American recruiters" },
+        { "key": "Salary Expectations", "text": "Realistic ranges for new grads with 4+ years international exp" },
+        { "key": "Networking Without a Network", "text": "Cold outreach, alumni, Chicago tech community" },
+        { "key": "Interview Culture Differences", "text": "US behavioral interviews vs technical assessments" },
+        { "key": "Long-term Path", "text": "OPT → H1B → Green Card timeline planning for tech workers" }
+      ]
+    },
+    {
+      "id": "saas-scratch",
+      "title": "SaaS from Scratch",
+      "icon": "rocket-launch",
+      "description": "Group Travel OS — building a real product solo. Architecture decisions, tradeoffs, lessons.",
+      "tags": ["FastAPI", "Next.js", "PostgreSQL", "Auth", "Testing", "Deployment", "Scaling"],
+      "bullets": [
+        { "key": "Idea Validation", "text": "Why group travel, what problem it actually solves" },
+        { "key": "Schema Design", "text": "12 tables, relationship decisions, UUID vs integer PKs" },
+        { "key": "Auth Architecture", "text": "JWT access + refresh, role-based group membership" },
+        { "key": "Service Layer Pattern", "text": "Why services, not fat routes, for testability" },
+        { "key": "Testing Philosophy", "text": "Mock strategy, what to test vs what to skip" },
+        { "key": "Frontend Decision", "text": "Next.js + Tailwind, why not React SPA, App Router tradeoffs" },
+        { "key": "Deployment Planning", "text": "Vercel + Railway, environment variables, CI/CD basics" },
+        { "key": "Scaling Considerations", "text": "Connection pooling, caching layer, async endpoints" }
+      ]
+    }
+  ],
+  "qa": [
+    {
+      "q": "What roles are you targeting?",
+      "a": "Solutions Engineer, Technical Account Manager, and Implementation Specialist roles at US-based SaaS, enterprise software, or cloud companies. Open to remote and Chicago-based positions."
+    },
+    {
+      "q": "What is your current visa/work status?",
+      "a": "MS CS graduate from DePaul University (2025). Currently on OPT — authorized to work full-time in the US without employer sponsorship during the OPT period."
+    },
+    {
+      "q": "What makes you different from other SE candidates?",
+      "a": "4+ years of enterprise implementation experience before graduate school. I've deployed to 15,000+ users, managed B2B accounts at Hilti and Daedalus, and built production FastAPI backends. Most SE candidates have one side — I have both."
+    },
+    {
+      "q": "What is Group Travel OS?",
+      "a": "A production-grade FastAPI backend I built solo. 12 PostgreSQL tables, JWT auth, expense splitting, polls, and location management. Full pytest test suite across 6 service files. Demonstrates backend architecture at enterprise scale."
+    },
+    {
+      "q": "What enterprise tools have you worked with?",
+      "a": "ServiceNow (ticket management, post-go-live), Jira + Confluence (project tracking, SOPs), Power BI (adoption dashboards, KPI reporting), Zoho CRM (workflow re-engineering), SAP (basics), Salesforce (AI Associate certified)."
+    },
+    {
+      "q": "Are you available for freelance projects?",
+      "a": "Yes — available for FastAPI backend development, Next.js full-stack builds, and enterprise tool implementation consulting. Targeting $50–80/hr for SaaS MVPs and internal tools."
+    },
+    {
+      "q": "How can I contact you?",
+      "a": "Email: bharath230.nidumolu@gmail.com\nLinkedIn: linkedin.com/in/bharath-nidumolu-613397135\nGitHub: github.com/bharath1997-crypto\nBased in Chicago, IL — open to video calls across US time zones."
+    },
+    {
+      "q": "What are you building next?",
+      "a": "Group Travel OS Phase 2 — adding a Next.js frontend, real-time notifications, and payment integration. Also exploring AI-powered itinerary suggestions using the Anthropic API."
+    }
+  ]
+}
